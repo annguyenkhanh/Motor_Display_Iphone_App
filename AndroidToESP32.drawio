@@ -5,7 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1PpwIGqXDAiouIa2ZDMm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ANDROID APP&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Google Maps SDK -&amp;gt; Directions API -&amp;gt; Polyline&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Simplify Route -&amp;gt; Encode -&amp;gt; Send via BT SPP&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="380" x="280" y="180" as="geometry" />
+          <mxGeometry height="200" width="400" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="agEzfthz6UlqiVXz9fBP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ESP32-S3 (Main MCU)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="400" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="agEzfthz6UlqiVXz9fBP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Round&lt;div&gt;TFT LCD&lt;/div&gt;&lt;div&gt;(SPI)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="106" x="294" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="agEzfthz6UlqiVXz9fBP-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GPS&lt;div&gt;GT-U7&lt;/div&gt;&lt;div&gt;(UART 1)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="106" x="421" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="agEzfthz6UlqiVXz9fBP-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HC-05 BT Module&lt;div&gt;(UART 2)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="106" x="550" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="agEzfthz6UlqiVXz9fBP-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Speaker&lt;div&gt;(I2S/PWM)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="106" x="550" y="535" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
