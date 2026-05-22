@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.motordisplay.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.motordisplay.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/an/.gradle/daemon/9.0.0/com.motordisplay.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "/home/an/.gradle/daemon/9.0.0/com.motordisplay.app-main-46:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color accent_green
+color bg_dark
+color card_blue
+color text_muted
+color text_white
+id bottomCard
+id btnSearchDest
+id btnSend
+id destCard
+id etDestSearch
+id mapView
+id startCard
+id topCard
+id txtBle
+id txtDistance
+id txtDistanceBottom
+id txtEta
+id txtGps
+id txtStart
+id txtTurn
+layout activity_main
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+style Theme.MotorDisplay

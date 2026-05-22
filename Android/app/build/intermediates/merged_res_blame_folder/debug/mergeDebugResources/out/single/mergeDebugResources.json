@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.motordisplay.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "com.motordisplay.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/an/.gradle/daemon/9.0.0/com.motordisplay.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "/home/an/.gradle/daemon/9.0.0/com.motordisplay.app-main-46:/layout/activity_main.xml"
+    }
+]

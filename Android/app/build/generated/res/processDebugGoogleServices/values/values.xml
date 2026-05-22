@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">318974798197</string>
+    <string name="google_api_key" translatable="false">AIzaSyAdkB0NqGCUywWyC7-4nyAxYP_V9VBD7tk</string>
+    <string name="google_app_id" translatable="false">1:318974798197:android:0e172c991b7ebcc2fa0b3c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdkB0NqGCUywWyC7-4nyAxYP_V9VBD7tk</string>
+    <string name="google_storage_bucket" translatable="false">motordisplay-c56dd.firebasestorage.app</string>
+    <string name="project_id" translatable="false">motordisplay-c56dd</string>
+</resources>
